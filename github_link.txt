@@ -1,0 +1,2 @@
+GitHub repository: https://github.com/YOUR_USERNAME/StudyPilot_AI
+Replace YOUR_USERNAME after creating your repository. This is a placeholder, not a live repository URL.
